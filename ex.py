@@ -1,7 +1,6 @@
 import streamlit as st
 import tempfile
 import pandas as pd
-import matplotlib.pyplot as plt
 import pathlib
 import textwrap
 import mistletoe
